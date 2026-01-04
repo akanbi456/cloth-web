@@ -16,7 +16,7 @@ const Contact = () => {
 
         <div className="flex items-center gap-3">
           <Phone size={24} />
-          <p>+234 9015391381</p>
+          <p>+234 7047017978</p>
         </div>
 
         <div className="flex items-center gap-3">
