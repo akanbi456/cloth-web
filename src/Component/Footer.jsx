@@ -17,7 +17,7 @@ const Footer = () => {
         </div>
         <div className="flex items-center gap-2 text-gray-200 text-sm mt-1">
           <FaPhoneAlt className="text-white" />
-          
+          <p>07047017978</p>
           <p></p>
         </div>
       </div>

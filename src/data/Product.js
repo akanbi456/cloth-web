@@ -10,21 +10,21 @@ export const Product =[
             '../public/face.png',
             '../public/face1.png',
             '../public/face2.png',
-            ''
+            
         ]
     },
-    {
-        id:2,
-        name:"Hoodies",
-        image:'',
-        gallery : [
-            '',
-            '', 
-            '',
-            ''
-        ]
+    // {
+    //     id:2,
+    //     name:"Hoodies",
+    //     image:'',
+    //     gallery : [
+    //         '',
+    //         '', 
+    //         '',
+    //         ''
+    //     ]
 
-    },
+    // },
     {
         id:3,
         name:"Shirts",
@@ -36,42 +36,42 @@ export const Product =[
             '../public/Shirt4.png'
         ]
     },
-    {
-        id:4,
-        name:"Jackets",
-        image:'',
-        gallery : [
-            '',
-            '',
-            '',
-            ''
-        ]
-    },
-    {
-        id:5,
-        name:"Jeans",
+    // {
+    //     id:4,
+    //     name:"Jackets",
+    //     image:'',
+    //     gallery : [
+    //         '',
+    //         '',
+    //         '',
+    //         ''
+    //     ]
+    // },
+    // {
+    //     id:5,
+    //     name:"Jeans",
         
-        image:'',
-        gallery : [
-            '',
-            '',
-            '',
-            ''
-        ]
+    //     image:'',
+    //     gallery : [
+    //         '',
+    //         '',
+    //         '',
+    //         ''
+    //     ]
 
-    },
-    {
-        id:6,
-        name:"TROUSERS",
+    // },
+    // {
+    //     id:6,
+    //     name:"TROUSERS",
 
-        image:'',
-        gallery : [
-            '',
-            '',
-            '',
-            ''
-        ]
-    },
+    //     image:'',
+    //     gallery : [
+    //         '',
+    //         '',
+    //         '',
+    //         ''
+    //     ]
+    // },
     {
         id:6,
         name:"SWEATSHIRTS",
